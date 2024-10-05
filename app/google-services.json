@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709397687957",
+    "project_id": "bmi-samir",
+    "storage_bucket": "bmi-samir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709397687957:android:a73a4d872735ca67cbf59c",
+        "android_client_info": {
+          "package_name": "com.bmi.bmicalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7y7562sv32znDz_o1JgtmJDhQy07VjnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
